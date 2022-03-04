@@ -9,3 +9,8 @@ I am a Fullstack software developer
 - 🥅 2022 Goals: Contribute more to Open Source projects, write and review more code
 - ⚡ Fun fact: I love to travel and see new places, play guitar / keyboard
 
+<hr>
+
+### ⚡ My tech stack 
+The following are technologies I love and use
+
