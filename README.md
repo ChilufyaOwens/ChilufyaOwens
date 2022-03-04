@@ -1,4 +1,5 @@
-## Hi there, I'm Chilufya, welcome to my GitHub 👋 
+## Hi there, I'm Chilufya Owens 👋 
+Welcome to my GitHub
 
 ## About me 👨🏼‍💻
 
