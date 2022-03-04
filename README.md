@@ -2,6 +2,7 @@
 
 ### About me 👨🏼‍💻
 
+I am a Fullstack software developer
 
 - 🌱 I’m currently learning just about anything and everything that adds a value to career and life 🤣
 - 👯 I’m looking to collaborate with other content creators, and just learn
