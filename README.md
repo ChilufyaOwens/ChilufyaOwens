@@ -1,6 +1,9 @@
 ## Hi there, I'm Chilufya Owens 👋 
 Welcome to my GitHub
 
+<br>
+<hr>
+
 ## About me 👨🏼‍💻
 
 I am a Fullstack software developer
